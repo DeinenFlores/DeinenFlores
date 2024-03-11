@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working at <a href="https://bayanichain.io/" rel="noopener noreferrer">BayaniChain</a></li>
+ 🔭 I’m currently working at <a href="https://bayanichain.io/" rel="noopener noreferrer" target="_blank">BayaniChain</a></li>
  
  🌱 I’m currently learning NextJS
 
